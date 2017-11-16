@@ -12,7 +12,7 @@ Building the First Version of the Bangazon Site
 
 
 ## DATABASE SETUP
-Create a database using the Rails commands in [bangazon-site-db-setup.md]
+Create a database using the Rails commands in [bangazon-site-db-setup.md](bangazon-site-db-setup.md)
 
 
 
