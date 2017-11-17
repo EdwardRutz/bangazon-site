@@ -32,7 +32,8 @@
 - Ticket #1
 - Learn generating controller, views and writting needed logic
 - Get blog demo notes with authentication working
-
+- [X] Wrote setup instructions in README.md
+- [X] Successfully added hello method
 
 
 
