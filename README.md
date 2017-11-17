@@ -11,11 +11,14 @@ Building the First Version of the Bangazon Site
 * Authentication
 
 ## SET-UP
+- Ruby Version 2.4.2
 - Clone repository to local machine
       ```
       $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
       ```
 - Install the needed Gems/Dependecies
+  - Gems:  sqlite, 
+  - Run bundler
       ```
       $ bundle install
       ```
