@@ -56,8 +56,3 @@ Building the First Version of the Bangazon Site
 - [The Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html)
 
 
-
-
-
-
-
