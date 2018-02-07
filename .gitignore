@@ -7,6 +7,8 @@ dist
 
 # ---- Rails Files & Directories
 ###############################
+DOCS/
+
 /db
 /db/*.sqlite3
 /log/*.log
